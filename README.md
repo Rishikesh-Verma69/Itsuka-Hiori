@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishikesh Verma (my profile is @Itsuka-Hiori)
+- 👋 Hi, I’m Rishikesh Verma (my profile is @Rishikesh-Verma69)
 - 👀 I’m interested in Machine learning, AI, web development 
 - 🌱 I’m currently learning Python, C and java(will start soon)
 - 💞️ I’m looking to collaborate on projects and internship
